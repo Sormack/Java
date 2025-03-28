@@ -9,6 +9,7 @@ public class Principal {
 		//Colleccion de objetos
 		Clientes cliente = new Clientes(2, "Javier", 1654986, "javier@gmail.com");
 		Clientes cliente2 = new Clientes(3, "Francisco", 65483164,"francisco@gmail.com");
+		Clientes cliente3 = new Clientes();
 		
 		LogicaDeLosMetodos imp = new LogicaDeLosMetodos();
 		
